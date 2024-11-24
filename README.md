@@ -45,7 +45,7 @@ Here the main topics which is discussed about:
    - Gradient Descent Methods
    - Compatible Function Approximation
 
- - Policy Gradient Methods
+- Policy Gradient Methods
   - Overview
   - Policy Parameterization
   - Objective Function
